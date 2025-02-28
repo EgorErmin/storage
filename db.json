@@ -1,14 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1", description: "" },
+    { "id": 2, "title": "Post 2", description: "" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "post": [
+    { "id": 1, "title": "Post 1", description: "", likeCount: 0, isLiked: false, commentCount: 0 },
+    { "id": 2, "title": "Post 2", description: "", likeCount: 0, isLiked: false, commentCount: 0 }
+  ]
 }
