@@ -1,10 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", description: "" },
-    { "id": 2, "title": "Post 2", description: "" }
+    { "id": 1, "title": "Post 1", "description": "" },
+    { "id": 2, "title": "Post 2", "description": "" }
   ],
   "post": [
-    { "id": 1, "title": "Post 1", description: "", likeCount: 0, isLiked: false, commentCount: 0 },
-    { "id": 2, "title": "Post 2", description: "", likeCount: 0, isLiked: false, commentCount: 0 }
+    { "id": 1, "title": "Post 1", "description": "", "likeCount": 0, "isLiked": false, "commentCount": 0 },
+    { "id": 2, "title": "Post 2", "description": "", "likeCount": 0, "isLiked": false, "commentCount": 0 }
   ]
 }
